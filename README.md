@@ -2,13 +2,18 @@
 
 Summary of my 42 cursus. Also you can find some info/help about 42Project, and my contribution at the 42 world.
 
-## 📖 Getting started :
+## 📖 Getting started:
  - [push_swap][1]
  - [Start and configure a MacOS 10.14 VM for 42](VM.md) in Windows 10.
  - [Example of config to compile with VSCode](https://gist.github.com/GlaceCoding/e0195d34145c8837cf8f18264fdd2539)
  - [\[FR\] *Mon script de déploiement des projets vers la vogsphere*](../../../empty_42school_project/tree/main/hooks#script-deploy)
 
-## 🗄️ 42 Projects :
+## 🔧 Tools for 42cursus:
+ - [Visualizer for push_swap][visualizer]
+
+[visualizer]: https://glacecoding.github.io/tools/pushswap/visualizer/?size=15&speed=150&args=71%20108%2097%2099%20101%2067%20111%20100%20105%20110%20103&queue=pb,pb,pb,pb,pb,pb,pb,pb,rra,pa,pa,ra,pa,ra,ra,pa,rra,pa,pa,rb,pa,rra,rra,rra,pa,ra,ra,ra,
+
+## 🗄️ 42 Projects:
 All my project has started from this [workspace structure](../../../empty_42school_project) and are rendered with [my deploy script 📚](../../../empty_42school_project/tree/main/hooks#script-deploy) which makes [a *rendu* on the vogsphere](../../../empty_42school_project_vogsphere) is a git remote for the Moulinette and Defense.
 
 | N°  | project                                            | Status |   | N°  | project                                               | Status |
