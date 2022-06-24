@@ -15,17 +15,18 @@ All my project has started from this [workspace structure](../../../empty_42scho
 | :-: | -------------------------------------------------- | :----: | - | :-: | ----------------------------------------------------- | :----: |
 | 1   | [empty_42school_project][2]                        |   📚   |   | 8   | [minishell 🔒](../../../project42_minishell)          |   ✅   |
 | 1   | [libft 🔒](../../../project42_libft)               |   ✅   |   | 9   | [philosophers 🔒](../../../project42_philosophers)    |   ✅   |
-| 2   | [get_next_line 🔒](../../../project42_getnextline) |   ✅   |   | 10  | [Piscine CPP 9/9 🔒][3]                               |   ✅   |
+| 2   | [get_next_line 🔒](../../../project42_getnextline) |   ✅   |   | 10  | [Piscine CPP 9/9][3]                                  |   ✅   |
 | 3   | [printf 🔒](../../../project42_printf)             |   ✅   |   | 19  | [netpractice 🔒](../../../project42_netpractice)      |   ✅   |
 | 4   | [born2beroot 🔒](../../../project42_born2beroot)   |   ✅   |   | 20  | [MiniRT 🔒](../../../project42_miniRT)                |   📝   |
-| 5   | [push_swap 🔒][swap] - [📚 explanation][1]         |   ✅   |   | | | |
-| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | | | |
+| 5   | [push_swap 🔒][swap] - [📚 explanation][1]         |   ✅   |   | 21  | [Piscine Django 11/12][4]                             |   ✅   |
+| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 32  | | |
 | 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | | | | 
 
 [swap]: ../../../project42_pushswap
 [1]: project/push_swap.md
 [2]: ../../../empty_42school_project
 [3]: project/CPP.md#%EF%B8%8F-cpp-module-00-08-
+[4]: project/django.md#%EF%B8%8F-piscine-django-module-00-09--rush-00-01-
 
 **Dep :** [Minuit](/siu/minunit) for unit test.
 
