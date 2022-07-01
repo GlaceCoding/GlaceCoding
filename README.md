@@ -24,7 +24,7 @@ All my project has started from this [workspace structure](../../../empty_42scho
 | 3   | [printf 🔒](../../../project42_printf)             |   ✅   |   | 19  | [netpractice 🔒](../../../project42_netpractice)      |   ✅   |
 | 4   | [born2beroot 🔒](../../../project42_born2beroot)   |   ✅   |   | 20  | [MiniRT 🔒](../../../project42_miniRT)                |   📝   |
 | 5   | [push_swap 🔒][swap] - [📚 explanation][1]         |   ✅   |   | 21  | [Piscine Django 11/12][4]                             |   ✅   |
-| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 32  | | |
+| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 32  | [Inception 🔒](../../../project42_inception)          |   📝   |
 | 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | | | | 
 
 [swap]: ../../../project42_pushswap
