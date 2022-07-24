@@ -10,6 +10,7 @@ Summary of my 42 cursus. Also you can find some info/help about 42Project, and m
 
 ## 🔧 Tools for 42cursus:
  - [Visualizer for push_swap][visualizer]
+ - [Little *tester* for miniRT](https://github.com/GlaceCoding/project42_minirt_tester/)
 
 [visualizer]: https://glacecoding.github.io/tools/pushswap/visualizer/?size=15&speed=150&args=71%20108%2097%2099%20101%2067%20111%20100%20105%20110%20103&queue=pb,pb,pb,pb,pb,pb,pb,pb,rra,pa,pa,ra,pa,ra,ra,pa,rra,pa,pa,rb,pa,rra,rra,rra,pa,ra,ra,ra,
 
@@ -54,6 +55,16 @@ https://gist.github.com/GlaceCoding/public
 ## 🌍 My contribution
 
 I have contributed to some doc/repositories to make my contribution and play my part to help others students (also this contribution help me for my own project and my training with git and other tools). My contributions were in [42docs](https://github.com/GlaceCoding/42docs/commits?author=GlaceCoding), or [pushwap-tester](https://github.com/lmalki-h/push_swap_tester/pull/10#issue-1076884545), or [ST4 python plugin](https://github.com/baptistejamin/sublime-42-norminette/commits/master) and other…
+
+## 📸 Screenshots
+
+### Screenshots of my graphicals projects for 42 in C:
+
+The first project is fdf a wireframe interface drawed pixel by pixel with 3D rotation support on mouse. The second project is a mini raytracer which supports sphere, plane and cylinder forms:
+
+![image](https://user-images.githubusercontent.com/92152391/180637780-1daa169f-7ac9-4e20-8018-ec4ccdd9e844.png)
+
+For the miniRT, the scene file look like that: [example of miniRT scene file](https://github.com/GlaceCoding/project42_minirt_tester/blob/main/render1.rt).
 
 <!--
 **GlaceCoding/GlaceCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
