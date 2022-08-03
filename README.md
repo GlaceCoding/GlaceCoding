@@ -23,10 +23,10 @@ All my project has started from this [workspace structure](../../../empty_42scho
 | 1   | [libft 🔒](../../../project42_libft)               |   ✅   |   | 9   | [philosophers 🔒](../../../project42_philosophers)    |   ✅   |
 | 2   | [get_next_line 🔒](../../../project42_getnextline) |   ✅   |   | 10  | [Piscine CPP 9/9][3]                                  |   ✅   |
 | 3   | [printf 🔒](../../../project42_printf)             |   ✅   |   | 19  | [netpractice 🔒](../../../project42_netpractice)      |   ✅   |
-| 4   | [born2beroot 🔒](../../../project42_born2beroot)   |   ✅   |   | 20  | [MiniRT 🔒](../../../project42_miniRT)                |   📝   |
+| 4   | [born2beroot 🔒](../../../project42_born2beroot)   |   ✅   |   | 20  | [MiniRT 🔒](../../../project42_miniRT)                |   ✅   |
 | 5   | [push_swap 🔒][swap] - [📚 explanation][1]         |   ✅   |   | 21  | [Piscine Django 11/12][4]                             |   ✅   |
-| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 32  | [Inception 🔒](../../../project42_inception)          |   📝   |
-| 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | | | | 
+| 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 32  | [Inception 🔒](../../../project42_inception)          |   ✅   |
+| 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | 33  | [ft_containers 🔒](../../../project42_ft_containers)  |   📝   |
 
 [swap]: ../../../project42_pushswap
 [1]: project/push_swap.md
