@@ -3,7 +3,7 @@
 Summary of my 42 cursus. Also you can find some info/help about 42Project, and my contribution at the 42 world.
 
 ## 📖 Getting started:
- - [push_swap][1]
+ - [\[FR\] push_swap][1]
  - [Start and configure a MacOS 10.14 VM for 42](VM.md) in Windows 10.
  - [Example of config to compile with VSCode](https://gist.github.com/GlaceCoding/e0195d34145c8837cf8f18264fdd2539)
  - [\[FR\] *Mon script de déploiement des projets vers la vogsphere*](../../../empty_42school_project/tree/main/hooks#script-deploy)
