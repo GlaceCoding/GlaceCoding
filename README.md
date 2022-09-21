@@ -28,6 +28,7 @@ All my project has started from this [workspace structure](../../../empty_42scho
 | 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 33  | [ft_containers 🔒](../../../project42_ft_containers)  |   ✅   |
 | 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | 33  | [webserv 🔒](../../../project42_webserv)              |   📝   |
 | 8   | [minishell 🔒](../../../project42_minishell)       |   ✅   |   | 33  | [ft_transcendence 🔒](../../../ft_transcendence)      |   📝   |
+
 [swap]: ../../../project42_pushswap
 [1]: project/push_swap.md
 [2]: ../../../empty_42school_project
