@@ -26,8 +26,8 @@ All my project has started from this [workspace structure](../../../empty_42scho
 | 4   | [born2beroot 🔒](../../../project42_born2beroot)   |   ✅   |   | 21  | [Piscine Django 11/12][4]                             |   ✅   |
 | 5   | [push_swap 🔒][swap] - [📚 explanation][1]         |   ✅   |   | 32  | [Inception 🔒](../../../project42_inception)          |   ✅   |
 | 6   | [pipex 🔒](../../../project42_pipex)               |   ✅   |   | 33  | [ft_containers 🔒](../../../project42_ft_containers)  |   ✅   |
-| 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | 33  | [webserv 🔒](../../../project42_webserv)              |   ✅   |
-| 8   | [minishell 🔒](../../../project42_minishell)       |   ✅   |   | 33  | [ft_transcendence 🔒][5]                              |   📝   |
+| 7   | [fdf 🔒](../../../project42_fdf)                   |   ✅   |   | 34  | [webserv 🔒](../../../project42_webserv)              |   ✅   |
+| 8   | [minishell 🔒](../../../project42_minishell)       |   ✅   |   | 35  | [ft_transcendence 🔒][5]                              |   📝   |
 
 [swap]: ../../../project42_pushswap
 [1]: project/push_swap.md
