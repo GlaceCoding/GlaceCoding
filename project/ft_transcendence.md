@@ -18,13 +18,14 @@ avec l'affichage de la balle.
 ## Introduction
 
 Cette méthode consiste à définir la trajectoire de la balle à un instant T, cette trajectoire est définie par la
-position, la direction et le timestamp de cet instant. La trajectoire est représenté par une droite, on suppose
-qu'il y aura collision soit sur les Y de la raquette du joueur de gauche ou de droite et rien d'autre. Il est
+position, la direction et le timestamp de cet instant. La trajectoire est représenté par une droite, on considère
+qu'il y aura collision seulement sur l'axe Y de la raquette des deux joueurs, on ne prend pas en compte les murs. Il est
 important de comprendre le point suivant: on ne considère aucune collision avec les murs. La collision avec les murs
 n'est qu'une question d'affichage, car le fait de toucher un mur n'affecte en rien le déroulement du jeu, il y a
 qu'une seule issue anticipable : la balle va rebondir avec un angle inverse. Contrairement à la collision avec la
-raquette du joueur, on ne peut pas anticiper si la raquette sera là ou non, il y a donc deux issues : Faire gagner
-la partie, ou relancer la balle en fonction d'un angle précis.
+raquette du joueur, où on ne peut pas anticiper si la raquette sera là ou non, et va donc créer un événement avec
+deux issues. Les deux issues sont : donner un point, ou collision de la balle avec la raquette. L'issue n'est donc
+pas anticipable à coup sûr ce qui nous fera recalculer la trajectoire de la balle.
 
 Cette méthode admet deux choses :
 
