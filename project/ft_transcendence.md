@@ -94,3 +94,12 @@ Quelques explications supplémentaire sur le schéma :
  - La droite verte est une fonction (équation) du type `vec(x,y) = vec(pos_x,pos_y) + vec(dir_x,dir_y) * delta_time * ball_speed`
  - La droite rouge est le mirroring en Y (retraitement de la position Y sur l'affichage)
  - Seule la collision tout à droite est calculée, son résultat permet de connaitre le temps nécessaire pour atteindre le point de collision
+
+## Calcul de colision
+
+<details>
+  <summary>Cliquer pour afficher l'indice sur la formule de math pour savoir s'il y a une collision</summary>
+ 
+  Cherchez comment calculer une collision entre deux droites (vecteurs) avec le produit scalaire. Ceci vous permettra de savoir s'il y a une collision et
+  connaitre le temps restant avant la collision. N'oubliez pas de normaliser. ;)
+</details>
