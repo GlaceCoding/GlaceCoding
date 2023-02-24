@@ -4,6 +4,7 @@ Summary of my 42 cursus. Also you can find some info/help about 42Project, and m
 
 ## 📖 Getting started:
  - [\[FR\] push_swap][1]
+ - [\[FR\] Gestion de la balle pong en lancé de rayon][pong_explain]
  - [Start and configure a MacOS 10.14 VM for 42](VM.md) in Windows 10.
  - [Example of config to compile with VSCode](https://gist.github.com/GlaceCoding/e0195d34145c8837cf8f18264fdd2539)
  - [\[FR\] *Mon script de déploiement des projets vers la vogsphere*](../../../empty_42school_project/tree/main/hooks#script-deploy)
@@ -31,6 +32,7 @@ All my project has started from this [workspace structure](../../../empty_42scho
 
 [swap]: ../../../project42_pushswap
 [1]: project/push_swap.md
+[pong_explain]: project/ft_transcendence.md
 [2]: ../../../empty_42school_project
 [3]: project/CPP.md#%EF%B8%8F-cpp-module-00-08-
 [4]: project/django.md#%EF%B8%8F-piscine-django-module-00-09--rush-00-01-
